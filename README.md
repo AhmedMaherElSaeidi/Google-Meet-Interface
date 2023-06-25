@@ -8,3 +8,7 @@ I would like to express my gratitude to the ITI internship program for providing
 
 ## App Overview
 ![Chessboard](./src/assets/images/GoogleMeetOverview.png)
+
+## Other ITI ReactJs Internship related Tasks
+
+- Simple chess board using html, css, and js: [Chess-Board](https://github.com/AhmedMaherElSaeidi/Chess-Board)
